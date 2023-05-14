@@ -1,0 +1,9 @@
+const About = () => {
+    return (
+        <div>
+            <a><h1>About Me</h1></a>
+        </div>
+    )
+
+}
+export default About
