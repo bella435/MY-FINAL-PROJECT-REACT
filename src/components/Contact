@@ -1,10 +1,10 @@
 const Contact = () => {
     return (
-        <dev>
+        <div>
             <h3>Bellagnaly@gmail.com</h3>
 
             <h3>347-986-4581</h3>
-        </dev>
+        </div>
     )
 }
 export default Contact

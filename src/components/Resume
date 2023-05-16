@@ -1,8 +1,5 @@
 const Resume = () => {
-    return(
-        <div>
-
-        </div>
-    )
+    return
+       
 }
 export default Resume
